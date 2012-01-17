@@ -1,1 +1,12 @@
 README
+------
+- author: Hoang Anh Nguyen. hoangnguyen177@gmail.com
+- purpose of this project is to: 
+ + use laptop's webcam or other devices such as kinect to control app's behaviour on Mac (primarily on Mac and powerpoint, maybe later with other apps and in linux machine)
+ + hobby project, primarily to wow people on my confirmation :P. Hehe. 
+ 
+- intended libraries:
+ + openCV 
+ + CMake
+ + any additional libraries controlling webcams 
+
